@@ -1,0 +1,146 @@
+[
+	{
+		"code": "RBXL",
+		"title": "Remera Blanca",
+		"price": "990",
+		"category": "Remeras",
+		"stock": "20",
+		"description": "Remera Blanca - talle XL",
+		"id": 1
+	},
+	{
+		"code": "RNM",
+		"title": "Remera Negra",
+		"price": "990",
+		"category": "Remeras",
+		"stock": "55",
+		"description": "Remera Negra - talle M",
+		"id": 2
+	},
+	{
+		"code": "RNL",
+		"title": "Remera Negra",
+		"price": "990",
+		"category": "Remeras",
+		"stock": "55",
+		"description": "Remera Negra - talle L",
+		"id": 3
+	},
+	{
+		"code": "BTXL",
+		"title": "Buzo Teddy",
+		"price": "1990",
+		"category": "Teddys",
+		"stock": "200",
+		"description": "Buzo Teddy - talle XL",
+		"id": 4
+	},
+	{
+		"code": "BTS",
+		"title": "Buzo Teddy",
+		"price": "1990",
+		"category": "Teddys",
+		"stock": "200",
+		"description": "Buzo Teddy - talle S",
+		"id": 6
+	},
+	{
+		"code": "BTXS",
+		"title": "Buzo Teddy",
+		"price": "1990",
+		"category": "Teddys",
+		"stock": "200",
+		"description": "Buzo Teddy - talle XS",
+		"id": 7
+	},
+	{
+		"code": "RMLL",
+		"title": "Remera manga larga",
+		"price": "1100",
+		"category": "Remeras",
+		"stock": "65",
+		"description": "Remera manga larga - talle L",
+		"id": 8
+	},
+	{
+		"code": "BRXL",
+		"title": "Buzo rojo",
+		"price": "1900",
+		"category": "Buzos",
+		"stock": "80",
+		"description": "Buzo rojo - talle XL",
+		"id": 9
+	},
+	{
+		"code": "CRRXL",
+		"title": "Camisa a rayas",
+		"price": "1500",
+		"category": "Camisas",
+		"stock": "25",
+		"description": "Camisa a rayas roja - talla XL",
+		"id": 10
+	},
+	{
+		"code": "CRRS",
+		"title": "Camisa a rayas",
+		"price": "1500",
+		"category": "Camisas",
+		"stock": "25",
+		"description": "Camisa a rayas roja - talla S",
+		"id": 11
+	},
+	{
+		"code": "RRS",
+		"title": "Remera a rayas",
+		"price": "1090",
+		"category": "Remeras",
+		"stock": "25",
+		"description": "Remera a rayas roja - talla S",
+		"id": 12
+	},
+	{
+		"code": "RRM",
+		"title": "Remera a rayas",
+		"price": "1090",
+		"category": "Remeras",
+		"stock": "25",
+		"description": "Remera a rayas roja - talla M",
+		"id": 13
+	},
+	{
+		"code": "RRL",
+		"title": "Remera a rayas",
+		"price": "1090",
+		"category": "Remeras",
+		"stock": "25",
+		"description": "Remera a rayas roja - talla L",
+		"id": 14
+	},
+	{
+		"code": "RRXL",
+		"title": "Remera a rayas",
+		"price": "1090",
+		"category": "Remeras",
+		"stock": "25",
+		"description": "Remera a rayas roja - talla XL",
+		"id": 15
+	},
+	{
+		"code": "CA",
+		"title": "Campera abrigada",
+		"price": "5900",
+		"category": "Camperas",
+		"stock": "25",
+		"description": "Campera abrigada",
+		"id": 16
+	},
+	{
+		"code": "CAA",
+		"title": "Campera abrigada",
+		"price": "5900",
+		"category": "Camperas",
+		"stock": "25",
+		"description": "Campera abrigada - color azul",
+		"id": 17
+	}
+]

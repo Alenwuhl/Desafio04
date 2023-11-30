@@ -1,0 +1,23 @@
+<div>
+  <h1>Lista de Productos</h1>
+
+  <div class="card-container">
+    {{#each products}}
+      <div class="card-home">
+        <div class="card-img-home"></div>
+        <div class="card-info-home">
+          <p class="text-title-home">{{this.title}}</p>
+          <p class="text-body-home">Descripción: {{this.description}}</p>
+        </div>
+        <div class="card-footer-home">
+          <span class="text-title-home">Precio: ${{this.price}}</span>
+          <div class="card-button-home">
+            <svg class="svg-icon" viewBox="0 0 20 20">
+              <!-- Tu código SVG aquí -->
+            </svg>
+          </div>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</div>
